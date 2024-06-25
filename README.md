@@ -12,8 +12,7 @@
 
 <div>
 <p align="center">
-<video  src="assets/CapaPodCast_v3.mp4" controls title ="Video de Abertura do PodCast">
-    /></video>
+<video  src="assets/CapaPodCast_v3.mp4" controls title ="Video de Abertura do PodCast"></video>
 </div>
 
 <p align="center">
@@ -61,8 +60,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro dos sites definidos abaixo, com os conteúdos na pasta prompt_src
 
--  Use os prompts de roteiro no [`chagpt`](output/chatGpt.md)
--  Use os prompts de artes no [`dreamina`](output/dreamina.md)
+-  Use os prompts de roteiro no [`chagpt`](prompts_src/chatGpt.md)
+-  Use os prompts de artes no [`dreamina`](prompts_src/dreamina.md)
 
 ---
 
