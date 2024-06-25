@@ -1,0 +1,8 @@
+# 🧠 Prompts
+
+**Dreamina as 2 capas**
+
+|   Ação   | prompt  |
+| :------: | -- |
+|  Capa Letras  | Crie uma capa para o podcast de tecnologia "Bits & Bots". O podcast explora tópicos como Python, Java, inteligência artificial, ciência de dados e aprendizado de máquina. A imagem deverá seguir as condições {REGRAS} abaixo.         			{REGRAS}   			Apenas 3 palavras na imagem "Bits & Bots"   			As palavras seriam claras e significativas   			Misture a imagem de um robô e uma tela grande   			O design deve transmitir claramente a ideia do podcast.   			Aparência adulta.   			Estilo futurista como movimento Matrix   			Alta resolução.   			Formato quadrado (1:1), Dreamina General Model v1.3.   			Cores suaves, não muito coloridas|
+| Capa Robô | Crie uma capa para o podcast de tecnologia "Bits & Bots". O podcast explora temas como inteligência artificial, ciência de dados e aprendizado de máquina. A imagem deve seguir as {REGRAS} abaixo.   			REGRAS:   			Frase Única: "Bits & Bots"   			Um robô verde amigável, positivo e fofo, sorrindo e acenando com a mão.   			O robô deve ser um pouco mais sério para se adequar a um público adulto.   			Uma pequena nave espacial deve estar voando ao fundo, atrás do robô.   			O robô deve parecer um assistente virtual ou consultor online.   			Fundo azul.   			Utilizar as ferramentas 3D, C4D, Blender, Dribbble, Behance, OC renderer.   			Alta resolução: 16k, 8k UHD, HD, HDR, 1080P, alta qualidade.   			Efeitos de luz e sombra, decoração detalhada, com detalhes impressionantes.   			Qualidade de imagem Ultra HD, semelhante a um cenário de Matrix.	 |

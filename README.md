@@ -1,14 +1,37 @@
 # Prompt-para-podcast-gerado_por_ia
 
 	Prompts for Chatgpt, Dreamina and ElevenLabs to create a AI Podcast
+<div>
+<p align="center">
+<img  src="assets/CapaPodCast_v3.png"
+      margin=30 
+      width=300
+      height=200
+    />
+</div>
 
- <B>   
+<div>
+<p align="center">
+<video  src="assets/CapaPodCast_v3.mp4" controls title ="Video de Abertura do PodCast">
+    /></video>
+</div>
+
+<p align="center">
+<img 
+    src="assets/CapaPodCast_v5.png"
+      margin=30 
+      width=500
+      height=300
+/>
+</p>
+
+<b>   
 <p align="center">
     preview do podcast
 </p></b>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Podcast_Bits_Bots_LLM_Editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -38,9 +61,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro dos sites definidos abaixo, com os conteúdos na pasta prompt_src
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+-  Use os prompts de roteiro no [`chagpt`](output/chatGpt.md)
+-  Use os prompts de artes no [`dreamina`](output/dreamina.md)
 
 ---
 
